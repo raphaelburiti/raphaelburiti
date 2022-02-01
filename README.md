@@ -1,6 +1,6 @@
 ### Hi, I'm Raphael Buriti 👋
 
-I'm a full stack developer for b8one, located on São Paulo, Brazil. <br/>
+I'm a Tech lead at decathlon, located on São Paulo, Brazil. <br/>
 
 ## Things I code with 💻
 <p>
